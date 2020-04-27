@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Doctor Finder</string>
+
+    <string name="generic_error">Please try again later.</string>
+
+    <string name="doctor_list_recent_doctors">Recent Doctors</string>
+    <string name="doctor_list_doctors">Vivy Doctors</string>
+</resources>
